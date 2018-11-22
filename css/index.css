@@ -560,8 +560,8 @@ nav.shrink .nav-class1 {
 }
 @media (max-width: 650px) {
 .cc1 {
-    background-image: url(../img/pic5.jpg);
-    background-position: center;
+    background-image: url(../img/clock-tower.jpg);
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative !important;
@@ -684,8 +684,8 @@ nav {
     font-family: 'Anton', sans-serif;
 }
 .cc1 {
-    background-image: url(../img/pic5.jpg);
-    background-position: center;
+    background-image: url(../img/clock-tower.jpg);
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative !important;
